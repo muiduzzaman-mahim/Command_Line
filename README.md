@@ -1,24 +1,14 @@
 # All Commands of terminal
 <a href="">
-
-## Click For Linux Terminal
-
+<h3>Click For Linux Terminal</h3>
 </a>
 <a href="">
-
-## Click For Windows Terminal
-
+ <h3>Click For Windows Terminal</h3>
 </a>
-
 <a href="">
-
-## Click For Ubuntu Terminal
-
+<h3>Click For Ubuntu Terminal</h3>
 </a>
-
 <a href="">
-
-## Click For React JS
-
+<h3>Click For React JS</h3>
 </a>
 
